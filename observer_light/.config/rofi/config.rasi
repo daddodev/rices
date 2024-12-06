@@ -15,7 +15,7 @@ window {
   primary-fg: #353a34;
   primary-bg: #76b16f;
   input-fg: #181e17;
-  input-bg: #b9ccb7;
+  input-bg: #c5bc99;
   destructive-fg: #393b3f;
   destructive-bg: #89a3e5;
 
