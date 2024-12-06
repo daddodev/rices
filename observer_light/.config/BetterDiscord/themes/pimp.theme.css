@@ -13,33 +13,33 @@
     --background-secondary-alt: #e3d8b0;
 
     --background-floating: #e3d8b0;
-    --background-accent-gradient: #8fe086;
-    --background-tertiary: #8fe086;
+    --background-accent-gradient: #76b16f;
+    --background-tertiary: #76b16f;
 
     --bg-overlay-2: #e3d8b0;
 
     --background-mentioned: #c9bf9c;
     --background-mentioned-hover: #afa688;
     --background-modifier-hover: #ced5e5;
-    --background-modifier-active: #8fe086;
+    --background-modifier-active: #76b16f;
     --background-modifier-selected: #e3d8b0;
     --background-modifier-accent: #4a64a5;
 
     --scrollbar-thin-track: transparent;
-    --scrollbar-auto-thumb: #8fe086;
-    --scrollbar-auto-thumb-hover: #7ec676;
+    --scrollbar-auto-thumb: #76b16f;
+    --scrollbar-auto-thumb-hover: #65975f;
     --scrollbar-auto-track: #e3d8b0;
-    --scrollbar-auto-scrollbar-color-thumb: #8fe086;
+    --scrollbar-auto-scrollbar-color-thumb: #76b16f;
     --scrollbar-auto-scrollbar-color-track: #e3d8b0;
 
     --text-normal: #1e1a18;
-    --text-positive: #8fe086;
+    --text-positive: #76b16f;
     --text-muted: #9f7c6f;
     --text-link: #4a64a5;
 
-    --interactive-selected: #8fe086;
+    --interactive-selected: #76b16f;
     --interactive-active: #1e1a18;
-    --interactive-normal: #8fe086;
+    --interactive-normal: #76b16f;
     --interactive-muted: #1e1a18;
 
     --header-primary: #4a64a5;

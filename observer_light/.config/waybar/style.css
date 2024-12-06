@@ -86,7 +86,7 @@ button:disabled {
 }
 
 #battery.charging, #battery.plugged {
-    background-color: #e5d189;
+    background-color: #bead6e;
     color: #3f3e39;
 }
 
