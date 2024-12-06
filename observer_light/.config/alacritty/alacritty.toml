@@ -35,7 +35,7 @@ key = "Return"
 mods = "Control|Shift"
 
 [window]
-opacity = 0.97
+opacity = 0.99
 
 [window.padding]
 x = 25
