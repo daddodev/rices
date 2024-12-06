@@ -1,0 +1,17 @@
+swaylock \
+	--screenshots \
+	--clock \
+	--indicator \
+	--indicator-radius 100 \
+	--indicator-thickness 10 \
+	--effect-blur 9x7 \
+	--effect-vignette 0.5:0.5 \
+	--text-color c3cdd8 \
+	--ring-color 2b5a91 \
+	--key-hl-color 8eb5e4 \
+	--line-color 091c34 \
+	--inside-color 0c2646 \
+	--separator-color 0d294d \
+	--grace 0 \
+	--fade-in 0.2 \
+	--daemonize
