@@ -1,0 +1,174 @@
+configuration {
+  modi: "drun,run,ssh";
+  font: "Bitstream Vera Sans 10";
+  show-icons: true;
+}
+
+window {
+  width: 400px;
+  height: 500px;
+}
+
+* {
+  view-fg: #beb7cc;
+  view-bg: #232226;
+  primary-fg: #383838;
+  primary-bg: #de8585;
+  input-fg: #e5cece;
+  input-bg: #595050;
+  destructive-fg: #d8d1e5;
+  destructive-bg: #4a3d66;
+
+  background-color: @view-bg;
+
+  normal-foreground: @view-fg;
+  normal-background: @view-bg;
+
+  active-foreground: @view-fg;
+  active-background: @view-bg;
+
+  urgent-foreground: @destructive-fg;
+  urgent-background: @destructive-bg;
+
+  alternate-normal-foreground: @view-fg;
+  alternate-normal-background: @view-bg;
+
+  alternate-active-foreground: @view-fg;
+  alternate-active-background: @view-bg;
+
+  alternate-urgent-foreground: @view-fg;
+  alternate-urgent-background: @view-bg;
+
+  selected-normal-foreground: @primary-fg;
+  selected-normal-background: @primary-bg;
+
+  selected-active-foreground: @primary-fg;
+  selected-active-background: @primary-bg;
+
+  selected-urgent-foreground: @destructive-fg;
+  selected-urgent-background: @destructive-bg;
+
+  spacing: 2;
+  sidebar-mode: false;
+}
+#window {
+  background-color: @view-bg;
+  border: 1;
+  border-radius: 15;
+  border-color: #beb7cc;
+}
+#mainbox {
+  border:  0;
+  padding: 25 25 25 25;
+  margin: 0;
+  spacing: 0;
+}
+#inputbar {
+  background-color: @input-bg;
+  text-color: @input-fg;
+  children:   [ prompt,textbox-prompt-colon,entry,case-indicator ];
+  spacing:    0;
+  padding: 12 12 12 12;
+  border-radius: 15;
+}
+#prompt {
+  background-color: @input-bg;
+  text-color: @input-fg;
+  spacing:    30;
+}
+#entry {
+  background-color: @input-bg;
+  text-color: @input-fg;
+  spacing:    0;
+  placeholder: "type to filter";
+  placeholder-color: #a38ecc;
+}
+#case-indicator {
+  background-color: @input-bg;
+  text-color: @input-fg;
+  spacing:    0;
+}
+#textbox-prompt-colon {
+  background-color: @input-bg;
+  text-color: @input-fg;
+  expand:     false;
+  str:        ":";
+  margin:     0px 0.3em 0em 0em;
+}
+#textbox {
+  text-color: @view-fg;
+}
+#message {
+  border:       0;
+  border-color: @primary-bg;
+  padding:      0;
+}
+#listview {
+  border:       0px 0px 0px 0px;
+  border-color: @primary-bg;
+  scrollbar:    false;
+  fixed-height: 0;
+  spacing:      11;
+  padding: 0;
+  margin: 45 0 0 0;
+}
+#element {
+  border:  0;
+  padding: 8 8 8 8;
+  border-radius: 15;
+  spacing: 10;
+}
+#element-text {
+  margin: 3 0 0 0;
+}
+#element.normal.normal {
+  background-color: @view-bg;
+  text-color: @view-fg;
+}
+#element.normal.urgent {
+  background-color: #4a3d66;
+  text-color: #d8d1e5;
+}
+#element.normal.active {
+  background-color: @view-bg;
+  text-color: @view-fg;
+}
+#element.selected.normal {
+  background-color: @primary-bg;
+  text-color: @primary-fg;
+}
+#element.selected.urgent {
+  background-color: @view-bg;
+  text-color: @view-fg;
+}
+#element.selected.active {
+  background-color: @view-bg;
+  text-color: @view-fg;
+}
+#element.alternate.normal {
+  background-color: @view-bg;
+  text-color: @view-fg;
+}
+#element.alternate.urgent {
+  background-color: @view-bg;
+  text-color: @view-fg;
+}
+#element.alternate.active {
+  background-color: @view-bg;
+  text-color: @view-fg;
+}
+#mode-switcher {
+  border: 1px 0px 0px 0px;
+  border-color: @view-fg;
+  margin: 0;
+}
+#button {
+  background-color: @view-bg;
+  text-color:       @normal-foreground;
+  padding: 4px 10px;
+  margin: 0;
+}
+#button.selected {
+  background-color: @view-fg;
+  text-color:       @view-bg;
+}

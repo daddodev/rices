@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    font-family: 'Bitstream Vera Sans';
+    font-size: 14;
+}
+
+window#waybar {
+    background-color: transparent;
+    color: #beb7cc;
+}
+
+label:disabled,
+button:disabled {
+    color: inherit;
+}
+
+.modules-left:first-child {
+    margin-left: 70px;
+}
+
+.modules-right:last-child {
+    margin-right: 70px;
+}
+
+#workspaces button {
+    background-color: transparent;
+    color: #beb7cc;
+}
+
+#workspaces button:hover {
+    background: #b0a3cc;
+    color: #242226;
+    border: 1px solid #b0a3cc;
+}
+
+/* #workspaces button.focused {  */
+/* changed for hyprland */
+#workspaces button.active {
+    border-color: #beb7cc;
+    font-weight: bold;
+}
+
+#workspaces button.urgent {
+    background-color: #4a3d66;
+    color: #d8d1e5;
+}
+
+#clock,
+#battery,
+#cpu,
+#memory,
+#disk,
+#temperature,
+#backlight,
+#network,
+#custom-media,
+#mode,
+#idle_inhibitor,
+#scratchpad,
+#pulseaudio,
+#mpd,
+#tray,
+#workspaces button {
+    border: 1px solid transparent;
+    border-radius: 15;
+    padding: 4px 10px 4px 10px;
+    
+    margin: 6px 10px 6px 0px;
+    
+    box-shadow: 0 0;
+ }
+
+
+#tray {
+    margin-right: 0;
+}
+
+#clock {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#battery {
+    background-color: transparent;
+    color: #beb7cc;
+}
+
+#battery.charging, #battery.plugged {
+    background-color: #57497a;
+    color: #dcd8e5;
+}
+
+#battery.critical:not(.charging) {
+    background-color: #4a3d66;
+    color: #d8d1e5;
+}
+
+#temperature.critical {
+    background-color: #4a3d66;
+    color: #d8d1e5;
+}

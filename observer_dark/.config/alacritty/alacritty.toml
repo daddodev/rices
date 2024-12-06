@@ -1,0 +1,42 @@
+[colors.normal]
+black = '#171619'
+red = '#deb1b1'
+green = '#ded2b1'
+yellow = '#c7deb1'
+blue = '#b1debc'
+magenta = '#b1dede'
+cyan = '#b1bcde'
+white = '#c7b1de'
+
+
+[colors.bright]
+black    = '#a38ecc'
+red      = '#cca3a3'
+green    = '#ccc1a3'
+yellow   = '#b7cca3'
+blue     = '#a3ccad'
+magenta  = '#a3cccc'
+cyan     = '#a3adcc'
+white    = '#beb7cc'
+
+[colors.primary]
+background = '#171619'
+foreground = '#beb7cc'
+
+[font]
+size = 10
+
+[font.normal]
+family = "Roboto Mono"
+
+[[keyboard.bindings]]
+action = "SpawnNewInstance"
+key = "Return"
+mods = "Control|Shift"
+
+[window]
+opacity = 0.97
+
+[window.padding]
+x = 25
+y = 25

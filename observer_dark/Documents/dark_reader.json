@@ -1,0 +1,50 @@
+{
+  "enabled": true,
+  "fetchNews": false,
+  "theme": {
+    "mode": 1,
+    "brightness": 100,
+    "contrast": 100,
+    "grayscale": 0,
+    "sepia": 0,
+    "useFont": false,
+    "fontFamily": "system-ui",
+    "textStroke": 0,
+    "engine": "dynamicTheme",
+    "stylesheet": "",
+    "darkSchemeBackgroundColor": "#232226",
+    "darkSchemeTextColor": "#beb7cc",
+    "lightSchemeBackgroundColor": "#232226",
+    "lightSchemeTextColor": "#beb7cc",
+    "scrollbarColor": "#171619",
+    "selectionColor": "#b0a3cc",
+    "styleSystemControls": true,
+    "lightColorScheme": "Default",
+    "darkColorScheme": "Default",
+    "immediateModify": true
+},
+  "presets": [],
+  "customThemes": [],
+  "siteList": [],
+  "siteListEnabled": [],
+  "applyToListedOnly": false,
+  "changeBrowserTheme": false,
+  "syncSettings": false,
+  "syncSitesFixes": false,
+  "automation": {
+      "enabled": false,
+      "mode": "",
+      "behavior": "OnOff",
+      "enable": false
+  },
+  "time": {
+    "activation": "18:00",
+    "deactivation": "9:00"
+  },
+  "location": {},
+  "previewNewDesign": true,
+  "enableForPDF": true,
+  "enableForProtectedPages": false,
+  "enableContextMenus": false,
+  "detectDarkTheme": false
+}

@@ -1,0 +1,15 @@
+markup=1
+actions=1
+
+# Format
+font=Bitstream Vera Sans 10
+border-color=#1e1a18
+border-size=1
+border-radius=15
+margin=35,35,35,35
+padding=25,25,25,25,
+outer-margin=70,70,70,70
+background-color=#e3d8b0
+text-color=#1e1a18
+width=400
+height=250
