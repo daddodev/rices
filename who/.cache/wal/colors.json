@@ -1,0 +1,28 @@
+{
+  "wallpaper": "/home/daddo/pimpmyrice/themes/who/who.png",
+  "alpha": "100",
+
+  "special": {
+    "background": "#0c2646",
+    "foreground": "#c3cdd8",
+    "cursor": "#b7c1cc"
+  },
+  "colors": {
+    "color0": "#0c2646",
+    "color1": "#709bcc",
+    "color2": "#8a70cc",
+    "color3": "#cc70c8",
+    "color4": "#cc7084",
+    "color5": "#cca170",
+    "color6": "#b1cc70",
+    "color7": "#70cc73",
+    "color8": "#8eabcc",
+    "color9": "#84a5cc",
+    "color10": "#9884cc",
+    "color11": "#cc84c9",
+    "color12": "#cc8494",
+    "color13": "#ccaa84",
+    "color14": "#b7cc84",
+    "color15": "#b7c1cc"
+  }
+}

@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/daddo/pimpmyrice/themes/who/who.png"
+let background = "#10335f"
+let foreground = "#c3cdd8"
+let cursor     = "#b7c1cc"
+
+" Colors
+let color0  = "#0c2646"
+let color1  = "#709bcc"
+let color2  = "#8a70cc"
+let color3  = "#cc70c8"
+let color4  = "#cc7084"
+let color5  = "#cca170"
+let color6  = "#b1cc70"
+let color7  = "#70cc73"
+let color8  = "#8eabcc"
+let color9  = "#84a5cc"
+let color10 = "#9884cc"
+let color11 = "#cc84c9"
+let color12 = "#cc8494"
+let color13 = "#ccaa84"
+let color14 = "#b7cc84"
+let color15 = "#b7c1cc"

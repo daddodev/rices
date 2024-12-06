@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/daddo/pimpmyrice/themes/observer/observer_light.png"
+let background = "#c9bf9c"
+let foreground = "#1e1a18"
+let cursor     = "#1e1a18"
+
+" Colors
+let color0  = "#e3d8b0"
+let color1  = "#407f39"
+let color2  = "#397f66"
+let color3  = "#39637f"
+let color4  = "#43397f"
+let color5  = "#78397f"
+let color6  = "#7f3951"
+let color7  = "#7f5539"
+let color8  = "#7f4c39"
+let color9  = "#33662d"
+let color10 = "#2d6652"
+let color11 = "#2d4f66"
+let color12 = "#362d66"
+let color13 = "#602d66"
+let color14 = "#662d41"
+let color15 = "#1e1a18"

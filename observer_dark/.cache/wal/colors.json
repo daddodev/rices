@@ -1,0 +1,28 @@
+{
+  "wallpaper": "/home/daddo/pimpmyrice/themes/observer/observer.png",
+  "alpha": "100",
+
+  "special": {
+    "background": "#232226",
+    "foreground": "#beb7cc",
+    "cursor": "#beb7cc"
+  },
+  "colors": {
+    "color0": "#171619",
+    "color1": "#deb1b1",
+    "color2": "#ded2b1",
+    "color3": "#c7deb1",
+    "color4": "#b1debc",
+    "color5": "#b1dede",
+    "color6": "#b1bcde",
+    "color7": "#c7b1de",
+    "color8": "#a38ecc",
+    "color9": "#cca3a3",
+    "color10": "#ccc1a3",
+    "color11": "#b7cca3",
+    "color12": "#a3ccad",
+    "color13": "#a3cccc",
+    "color14": "#a3adcc",
+    "color15": "#beb7cc"
+  }
+}
