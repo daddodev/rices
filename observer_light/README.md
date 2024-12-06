@@ -6,7 +6,7 @@ Dump generated with [pimp](https://github.com/daddodev/pimpmyrice) `export theme
 
 - swaylock
 - mako
-- hyprland (with hyprbars and borders-plus-plus)
+- hyprland (with borders-plus-plus)
 - kitty
 - dark_reader
 - betterdiscord
