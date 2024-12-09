@@ -1,0 +1,13 @@
+html[data-darkreader-mode] body a {
+  color: rgb(21, 30, 22) !important;
+}
+
+@-moz-document regexp('^(?!http).*') {
+  :root>* {
+    background: rgb(206, 229, 208) !important;
+  }
+}
+
+/* #urlbar-input-container:-moz-lwtheme, .urlbarView:-moz-lwtheme {
+  background-color: color-mix(in srgb, var(--lwt-accent-color) 87%, black);
+} */

@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/daddo/.config/pimpmyrice/themes/dog_playing/dog with guitar dark.png"
+let background = "#2b1f3f"
+let foreground = "#bfb7cc"
+let cursor     = "#bfb7cc"
+
+" Colors
+let color0  = "#110c19"
+let color1  = "#8bcca4"
+let color2  = "#8bc3cc"
+let color3  = "#8b92cc"
+let color4  = "#b48bcc"
+let color5  = "#cc8bb3"
+let color6  = "#cc948b"
+let color7  = "#ccc48b"
+let color8  = "#a78ecc"
+let color9  = "#9fccb0"
+let color10 = "#9fc6cc"
+let color11 = "#9fa4cc"
+let color12 = "#bb9fcc"
+let color13 = "#cc9fbb"
+let color14 = "#cca59f"
+let color15 = "#bfb7cc"

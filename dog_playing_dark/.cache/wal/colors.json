@@ -1,0 +1,28 @@
+{
+  "wallpaper": "/home/daddo/.config/pimpmyrice/themes/dog_playing/dog with guitar dark.png",
+  "alpha": "100",
+
+  "special": {
+    "background": "#1a1326",
+    "foreground": "#bfb7cc",
+    "cursor": "#bfb7cc"
+  },
+  "colors": {
+    "color0": "#110c19",
+    "color1": "#8bcca4",
+    "color2": "#8bc3cc",
+    "color3": "#8b92cc",
+    "color4": "#b48bcc",
+    "color5": "#cc8bb3",
+    "color6": "#cc948b",
+    "color7": "#ccc48b",
+    "color8": "#a78ecc",
+    "color9": "#9fccb0",
+    "color10": "#9fc6cc",
+    "color11": "#9fa4cc",
+    "color12": "#bb9fcc",
+    "color13": "#cc9fbb",
+    "color14": "#cca59f",
+    "color15": "#bfb7cc"
+  }
+}
