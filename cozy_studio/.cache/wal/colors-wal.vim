@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/daddo/.config/pimpmyrice/themes/cozy_studio/ws.jpg"
+let background = "#4c3c36"
+let foreground = "#d8c9c3"
+let cursor     = "#ccbdb7"
+
+" Colors
+let color0  = "#191412"
+let color1  = "#ebbd81"
+let color2  = "#c9eb81"
+let color3  = "#81eb88"
+let color4  = "#81ebd7"
+let color5  = "#81afeb"
+let color6  = "#a281eb"
+let color7  = "#eb81e3"
+let color8  = "#cca08e"
+let color9  = "#d1b188"
+let color10 = "#bad188"
+let color11 = "#88d18d"
+let color12 = "#88d1c4"
+let color13 = "#88a7d1"
+let color14 = "#9f88d1"
+let color15 = "#ccbdb7"

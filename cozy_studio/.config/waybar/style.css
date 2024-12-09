@@ -1,0 +1,149 @@
+* {
+    border: none;
+    margin: 0;
+    font-family: 'Bitstream Vera Sans';
+    font-size: 14;
+}
+
+window#waybar {
+    background-color: transparent;
+    color: #ccbdb7;
+}
+
+label:disabled,
+button:disabled {
+    color: inherit;
+}
+.modules-center,
+.modules-left,
+.modules-right {
+    border: 2 solid #332c23;
+    border-radius: 5;
+    background-color: #191412;
+    padding: 4px 4px;
+    
+    margin-top: 12px;
+    
+}
+
+.modules-left {
+    margin-left: 30px;
+}
+
+.modules-right {
+    margin-right: 30px;
+}
+
+#workspaces button {
+    background-color: #191412;
+    color: #ccbdb7;
+}
+
+#workspaces button:hover {
+    background-color: #cc9670;
+    color: #262422;
+}
+
+/* #workspaces button.focused {  */
+/* changed for hyprland */
+#workspaces button.active {
+    background-color: #e5b270;
+    color: #3f3c39;
+    font-weight: bold;
+}
+
+#workspaces button.urgent {
+    background-color: #a9734e;
+    color: #e5d8ce;
+}
+
+#clock,
+#battery,
+#cpu,
+#memory,
+#disk,
+#temperature,
+#backlight,
+#network,
+#custom-media,
+#mode,
+#idle_inhibitor,
+#scratchpad,
+#pulseaudio,
+#mpd,
+#tray,
+#workspaces button {
+    background-color: #191412;
+    border-radius: 2;
+    padding: 8px 15px 8px 15px;
+    margin: 6px;
+    box-shadow: 0 0;
+ }
+
+
+.modules-center {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#battery {
+    background-color: #191412;
+    color: #ccbdb7;
+}
+
+#battery.charging, #battery.plugged {
+    background-color: #6c4c3a;
+    color: #e5d6ce;
+}
+
+#battery.critical:not(.charging) {
+    background-color: #a9734e;
+    color: #e5d8ce;
+}
+
+#temperature.critical {
+    background-color: #a9734e;
+    color: #e5d8ce;
+}
+
+
+
+#pulseaudio {
+    background-color: #ebbd81;
+    color: #191412;
+}
+
+#network {
+    background-color: #c9eb81;
+    color: #191412;
+}
+
+
+#cpu {
+    background-color: #81eb88;
+    color: #191412;
+}
+
+#temperature {
+    background-color: #81ebd7;
+    color: #191412;
+}
+
+#memory {
+    background-color: #81afeb;
+    color: #191412;
+}
+
+
+#disk {
+    background-color: #a281eb;
+    color: #191412;
+}
+
+
+#tray {
+    background-color: #eb81e3;
+    color: #191412;
+}
+
+

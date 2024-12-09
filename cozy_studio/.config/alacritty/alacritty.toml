@@ -1,0 +1,42 @@
+[colors.normal]
+black = '#191412'
+red = '#ebbd81'
+green = '#c9eb81'
+yellow = '#81eb88'
+blue = '#81ebd7'
+magenta = '#81afeb'
+cyan = '#a281eb'
+white = '#eb81e3'
+
+
+[colors.bright]
+black    = '#cca08e'
+red      = '#d1b188'
+green    = '#bad188'
+yellow   = '#88d18d'
+blue     = '#88d1c4'
+magenta  = '#88a7d1'
+cyan     = '#9f88d1'
+white    = '#ccbdb7'
+
+[colors.primary]
+background = '#191412'
+foreground = '#ccbdb7'
+
+[font]
+size = 10
+
+[font.normal]
+family = "Bitstream Vera Sans Mono"
+
+[[keyboard.bindings]]
+action = "SpawnNewInstance"
+key = "Return"
+mods = "Control|Shift"
+
+[window]
+opacity = 0.97
+
+[window.padding]
+x = 25
+y = 25
