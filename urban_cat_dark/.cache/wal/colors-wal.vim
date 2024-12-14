@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/daddo/.config/pimpmyrice/themes/urban_cat/wallhaven-o3j1yl_2_2_2_2_2.jpg"
+let background = "#4c4b43"
+let foreground = "#eeead6"
+let cursor     = "#eeead6"
+
+" Colors
+let color0  = "#191916"
+let color1  = "#b2cbe3"
+let color2  = "#bdb2e3"
+let color3  = "#e2b2e3"
+let color4  = "#e3b2bf"
+let color5  = "#e3c9b2"
+let color6  = "#d7e3b2"
+let color7  = "#b2e3b2"
+let color8  = "#ccc18e"
+let color9  = "#a3b8cc"
+let color10 = "#aca3cc"
+let color11 = "#cba3cc"
+let color12 = "#cca3ae"
+let color13 = "#ccb6a3"
+let color14 = "#c2cca3"
+let color15 = "#eeead6"

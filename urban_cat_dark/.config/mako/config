@@ -1,0 +1,15 @@
+markup=1
+actions=1
+
+# Format
+font=JetBrains Mono 14
+border-color=#272d33
+border-size=10
+border-radius=0
+margin=25,25,25,25
+padding=25,25,25,25,
+outer-margin=50,50,50,50
+background-color=#595750
+text-color=#e5e1ce
+width=540
+height=350

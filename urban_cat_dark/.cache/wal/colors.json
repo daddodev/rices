@@ -1,0 +1,28 @@
+{
+  "wallpaper": "/home/daddo/.config/pimpmyrice/themes/urban_cat/wallhaven-o3j1yl_2_2_2_2_2.jpg",
+  "alpha": "100",
+
+  "special": {
+    "background": "#33322d",
+    "foreground": "#eeead6",
+    "cursor": "#eeead6"
+  },
+  "colors": {
+    "color0": "#191916",
+    "color1": "#b2cbe3",
+    "color2": "#bdb2e3",
+    "color3": "#e2b2e3",
+    "color4": "#e3b2bf",
+    "color5": "#e3c9b2",
+    "color6": "#d7e3b2",
+    "color7": "#b2e3b2",
+    "color8": "#ccc18e",
+    "color9": "#a3b8cc",
+    "color10": "#aca3cc",
+    "color11": "#cba3cc",
+    "color12": "#cca3ae",
+    "color13": "#ccb6a3",
+    "color14": "#c2cca3",
+    "color15": "#eeead6"
+  }
+}

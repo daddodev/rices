@@ -1,0 +1,42 @@
+[colors.normal]
+black = '#eeebe1'
+red = '#395d7f'
+green = '#49397f'
+yellow = '#7e397f'
+blue = '#7f394c'
+magenta = '#7f5b39'
+cyan = '#6f7f39'
+white = '#3a7f39'
+
+
+[colors.bright]
+black    = '#7f7339'
+red      = '#2d4a66'
+green    = '#3a2d66'
+yellow   = '#652d66'
+blue     = '#662d3c'
+magenta  = '#66492d'
+cyan     = '#58662d'
+white    = '#1e1e1c'
+
+[colors.primary]
+background = '#eeebe1'
+foreground = '#1e1e1c'
+
+[font]
+size = 10
+
+[font.normal.family]
+family = "JetBrains Mono"
+
+[[keyboard.bindings]]
+action = "SpawnNewInstance"
+key = "Return"
+mods = "Control|Shift"
+
+[window]
+opacity = 0.99
+
+[window.padding]
+x = 25
+y = 25
